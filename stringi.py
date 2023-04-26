@@ -4,5 +4,5 @@ s_1=kogni.lower()
 #print(lista)
 cokolwiek
 
-
+cos
 
