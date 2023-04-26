@@ -2,7 +2,7 @@ kogni="Kognitywistyka - dziedzina nauki zajmująca się obserwacją i analizą d
 s_1=kogni.lower()
 #lista=s.split()
 #print(lista)
-
+cokolwiek
 
 
 
